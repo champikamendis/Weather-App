@@ -8,5 +8,5 @@ or
 ### yarn install
 </br>
 Then run the application using:</br>
-</br>
 ### yarn android
+</br>
