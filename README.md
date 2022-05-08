@@ -6,7 +6,6 @@ After cloning the repository, you need to run:</br>
 ### yarn 
 or 
 ### yarn install
-</br>
 Then run the application using:</br>
 ### yarn android
 </br>
